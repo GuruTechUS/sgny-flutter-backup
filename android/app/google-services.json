@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "322211843959",
+    "firebase_url": "https://sgny-app.firebaseio.com",
+    "project_id": "sgny-app",
+    "storage_bucket": "sgny-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322211843959:android:ddd59a9cf03a9c82",
+        "android_client_info": {
+          "package_name": "com.sikhgamesofnj.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322211843959-caajhq9sp9cjqpuf1fu2tbctjivrfn80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLbC4mxJJvNUlVqX-H_g7yPeRjjkJLavc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322211843959-caajhq9sp9cjqpuf1fu2tbctjivrfn80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322211843959-pve19lgbls18gvr03tuit7jnu8iigfd7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "us.gurutech.sgny",
+                "app_store_id": "1474137562"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322211843959:android:94a59094e629236a",
+        "android_client_info": {
+          "package_name": "us.gurutech.sgny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322211843959-caajhq9sp9cjqpuf1fu2tbctjivrfn80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLbC4mxJJvNUlVqX-H_g7yPeRjjkJLavc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322211843959-caajhq9sp9cjqpuf1fu2tbctjivrfn80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322211843959-pve19lgbls18gvr03tuit7jnu8iigfd7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "us.gurutech.sgny",
+                "app_store_id": "1474137562"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322211843959:android:109366c61bae4392",
+        "android_client_info": {
+          "package_name": "us.gurutech.sgnyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322211843959-caajhq9sp9cjqpuf1fu2tbctjivrfn80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLbC4mxJJvNUlVqX-H_g7yPeRjjkJLavc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322211843959-caajhq9sp9cjqpuf1fu2tbctjivrfn80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322211843959-pve19lgbls18gvr03tuit7jnu8iigfd7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "us.gurutech.sgny",
+                "app_store_id": "1474137562"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

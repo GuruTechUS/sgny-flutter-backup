@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>322211843959-pve19lgbls18gvr03tuit7jnu8iigfd7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.322211843959-pve19lgbls18gvr03tuit7jnu8iigfd7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBISRiqGBL2D3vmYz_YngHGMnL9D5OYylM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>322211843959</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>us.gurutech.sgny</string>
+	<key>PROJECT_ID</key>
+	<string>sgny-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sgny-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:322211843959:ios:94a59094e629236a</string>
+	<key>DATABASE_URL</key>
+	<string>https://sgny-app.firebaseio.com</string>
+</dict>
+</plist>
